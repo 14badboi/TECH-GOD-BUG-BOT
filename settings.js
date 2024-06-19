@@ -18,7 +18,7 @@ global.location = "India, Up, Rampur"
 
 global.ownernumber = '2348140825959'  //creator number
 global.ownername = 'BADBOI' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = 'BADBOI  ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -26,10 +26,10 @@ global.author = 'BADBOI\n\nContact: +2348140825959'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Youtube Tech God."
+global.wm = "Youtube BAD BOI."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
